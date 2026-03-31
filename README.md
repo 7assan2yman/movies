@@ -1,4 +1,4 @@
-# Movie Database Application
+# Movie Database Application JDK 25
 
 A desktop Java application for browsing and analyzing movie data. Built with **Java Swing** for the GUI, **SQLite** for the database, and **Maven** for dependency management. The application allows users to search movies by various criteria and view detailed insights about years, actors, and directors.
 
